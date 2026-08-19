@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Translate - Minimalist Multilingual Translator",
+  "description": "An elegant, lightning-fast multilingual translator with offline caching, voice pronunciation, smart dictionary context, and customizable tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
