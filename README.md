@@ -1,4 +1,4 @@
-## Lumina Translate s- multilingual translator
+## Lumina Translate - minimalist multilingual translator
 
 ## Run Locally
 
